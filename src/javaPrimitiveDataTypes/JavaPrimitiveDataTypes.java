@@ -7,4 +7,7 @@
 package javaPrimitiveDataTypes;
 
 public class JavaPrimitiveDataTypes {
+    public static void main(String[] args) {
+
+    }
 }
