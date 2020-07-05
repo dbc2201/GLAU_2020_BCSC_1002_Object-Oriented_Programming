@@ -10,14 +10,21 @@ public class JavaPrimitiveDataTypes {
     public static void main(String[] args) {
         /*
          * There are 8 Primitive Data Types in Java
-         * 1. byte
-         * 2. char
-         * 3. short
-         * 4. int
-         * 5. long
-         * 6. float
-         * 7. double
-         * 8. boolean
+         * data type name           class name
+         * 1. byte                  Byte
+         * 2. char                  Character
+         * 3. short                 Short
+         * 4. int                   Integer
+         * 5. long                  Long
+         * 6. float                 Float
+         * 7. double                Double
+         * 8. boolean               Boolean
          * */
+
+        // Now, we will examine the range of each and every data type programmatically.
+        // Every numerical primitive data type in Java has a minimum number and a maximum number in its range.
+        // We can access the number by using
+        // Minimum Value: <data type class name>.MIN_VALUE
+        // Maximum Value: <data type class name>.MAX_VALUE
     }
 }
