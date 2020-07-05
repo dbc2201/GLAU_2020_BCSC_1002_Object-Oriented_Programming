@@ -31,7 +31,16 @@ public class JavaPrimitiveDataTypes {
         System.out.println("Range of byte is from " + Byte.MIN_VALUE + " to " + Byte.MAX_VALUE);
 
         // range for char
-        System.out.println("Range of char is from '" + Character.MIN_VALUE + "' to '" + Character.MAX_VALUE + "'");
+        System.out.println("Character Range of char is from '" +
+                Character.MIN_VALUE +
+                "' to '" +
+                Character.MAX_VALUE +
+                "'");
+        System.out.println("ASCII Range of char is from '" +
+                (int) Character.MIN_VALUE +
+                "' to '" +
+                (int) Character.MAX_VALUE +
+                "'");
 
         // range for short
         System.out.println("Range for short is from " + Short.MIN_VALUE + " to " + Short.MAX_VALUE);
