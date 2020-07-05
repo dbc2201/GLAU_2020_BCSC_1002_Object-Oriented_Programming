@@ -9,7 +9,7 @@ package javaPrimitiveDataTypes;
 public class JavaPrimitiveDataTypes {
     public static void main(String[] args) {
         /*
-         * There are 8 Primitive Data Types in Java
+         * There are 8 Primitive Data Types in Java. Each data type has a corresponding (Wrapper) Class in Java.
          * data type name           class name
          * 1. byte                  Byte
          * 2. char                  Character
