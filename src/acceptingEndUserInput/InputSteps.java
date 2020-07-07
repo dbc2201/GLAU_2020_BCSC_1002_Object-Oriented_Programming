@@ -24,5 +24,15 @@ public class InputSteps {
         // what kind of input value the program is expecting
         System.out.println("Please enter an integer value: ");
         int number = scanner.nextInt(); // step 3
+        // Here, we are using the methods of the Scanner class, with the object (scanner)
+        // of the Scanner class.
+        // There are methods for all data types except 1 (character)
+        // byte: nextByte()
+        // short: nextShort()
+        // int: nextInt()
+        // long: nextLong()
+        // float: nextFloat()
+        // double: nextDouble()
+        // boolean: nextBoolean()
     }
 }
