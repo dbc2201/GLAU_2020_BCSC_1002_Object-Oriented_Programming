@@ -18,5 +18,11 @@ public class InputSteps {
         Scanner scanner = new Scanner(System.in);
         // note carefully, where the capital S is used in Scanner,
         // it means the class is used. The scanner with small s is the object.
+
+        // Step 3: take input from the end-user and store it in a variable
+        // first, print a message on the console to let the end-user know
+        // what kind of input value the program is expecting
+        System.out.println("Please enter an integer value: ");
+        int number = scanner.nextInt(); // step 3
     }
 }
