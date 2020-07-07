@@ -16,5 +16,7 @@ public class InputSteps {
         // use this formula to create an object of any class in Java
         // <ClassName> <objectName> = new <ClassName>();
         Scanner scanner = new Scanner(System.in);
+        // note carefully, where the capital S is used in Scanner,
+        // it means the class is used. The scanner with small s is the object.
     }
 }
