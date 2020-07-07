@@ -6,5 +6,7 @@
 
 package acceptingEndUserInput;
 
+//  Step 1: import the Scanner class from the java.util package.
+
 public class InputSteps {
 }
