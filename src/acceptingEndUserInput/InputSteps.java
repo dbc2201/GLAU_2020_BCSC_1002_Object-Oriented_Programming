@@ -34,5 +34,8 @@ public class InputSteps {
         // float: nextFloat()
         // double: nextDouble()
         // boolean: nextBoolean()
+
+        // Step 4: close the scanner object
+        scanner.close();
     }
 }
